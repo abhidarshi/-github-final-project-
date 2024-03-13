@@ -1,0 +1,44 @@
+# Contribution Guidelines
+
+Thank you for considering contributing to our project! We welcome contributions from everyone, whether you're a seasoned developer or just getting started. By participating in this project, you agree to abide by the following guidelines:
+
+## Getting Started
+
+1. Fork the repository and clone it to your local machine.
+2. Create a new branch for your contribution:
+3. Make your changes and ensure they adhere to the project's coding style and guidelines.
+4. Test your changes locally to ensure they work as expected.
+
+## How to Contribute
+
+There are several ways you can contribute to this project:
+
+- **Code Contributions:** Implement new features, fix bugs, or improve existing code.
+- **Documentation:** Update and improve project documentation, including README files, code comments, and user guides.
+- **Bug Reports:** Report any bugs, issues, or inconsistencies you encounter.
+- **Feature Requests:** Suggest new features or improvements to enhance the project.
+
+## Submitting Changes
+
+1. Once you're satisfied with your changes, commit them to your branch:
+2. Push your changes to your fork:
+3. Open a pull request (PR) against the main repository's `master` branch.
+
+## Pull Request Guidelines
+
+Before submitting a pull request, please ensure the following:
+
+- Your PR addresses a specific issue or feature request.
+- Your code adheres to the project's coding style and conventions.
+- You have included relevant tests and documentation for your changes.
+- Your commits are clear, concise, and have descriptive commit messages.
+
+## Code of Conduct
+
+Please note that this project is governed by our [Code of Conduct](link-to-code-of-conduct). We expect all contributors to adhere to its principles and foster a welcoming and inclusive community.
+
+## Feedback and Support
+
+If you have any questions, feedback, or need assistance, feel free to reach out to us through [issue tracking](link-to-issue-tracker) or other communication channels specified in the project.
+
+Thank you for contributing to our project and helping make it better for everyone!
